@@ -4,7 +4,7 @@
  > However it's not a complete version.
 
 ## requirements
-
+* using python3
 * tkinter ( within pyhton default )
 * numpy
 * pycreenshot or pyscreen
