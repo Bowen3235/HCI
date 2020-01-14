@@ -13,6 +13,7 @@
 
 ```bash
 git clone https://github.com/Bowen3235/HCI.git
+cd HCI
 python app.py
 ```
 
