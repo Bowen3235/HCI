@@ -1,11 +1,10 @@
 # HCI final
 
- > It's a attempting of implementing our final proposal.
- 
+ > It's a attempting of implementing our final proposal.  
  > However it's not a complete version.
 
 ## requirements
-* tkinter ( with in pyhton default )
+* tkinter ( within pyhton default )
 * numpy
 * pycreenshot or pyscreen
 
